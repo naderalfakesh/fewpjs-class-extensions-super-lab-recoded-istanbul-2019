@@ -19,3 +19,13 @@ class Deciduous{
     return super.species + "Deciduous trees shed their leaves annually.";
   }
 }
+
+class Deciduous{
+  constructor(species,name){
+    super(species);
+    this.name = name;
+  }
+  static definition(){
+    return super.species + "Deciduous trees shed their leaves annually.";
+  }
+}
