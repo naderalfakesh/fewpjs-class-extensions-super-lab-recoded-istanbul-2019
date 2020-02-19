@@ -26,6 +26,6 @@ class Evergreen extends Tree{
     this.name = name;
   }
   static definition(){
-    return super.species + "Deciduous trees shed their leaves annually.";
+    return super.species + "Evergreens keep their leaves all year round.";
   }
 }
