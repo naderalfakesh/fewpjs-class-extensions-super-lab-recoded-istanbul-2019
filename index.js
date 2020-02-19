@@ -10,7 +10,7 @@ class Tree{
 }
 
 
-class Tree{
+class Deciduous{
   constructor(species){
     this.species = species;
   }
