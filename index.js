@@ -16,6 +16,6 @@ class Deciduous{
     this.name = name;
   }
   static definition(){
-    return super.species + "A tree is a perennial plant with an elongated stem, or trunk, supporting branches and leaves";
+    return super.species + "Deciduous trees shed their leaves annually.";
   }
 }
