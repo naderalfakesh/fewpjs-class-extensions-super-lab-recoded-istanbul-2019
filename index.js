@@ -11,7 +11,8 @@ class Tree{
 
 
 class Deciduous{
-  constructor(species){
+  constructor(species,name){
+    this.species = species;
     this.species = species;
   }
   static definition(){
